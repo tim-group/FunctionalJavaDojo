@@ -1,0 +1,14 @@
+*.eml
+.idea
+build
+tmp
+out
+.externalToolBuilders
+.gradle
+*.iws
+*.ipr
+bin/
+.classpath
+.project
+.settings
+*.iml
